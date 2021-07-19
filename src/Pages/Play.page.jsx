@@ -11,9 +11,9 @@ const Play =()=>{
          <div className="flex flex-wrap ">
               <div className="w-1/2 md:w-1/3 lg:w-3/12 my-3">
                 <Poster
-                  src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxNyBKdWw%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00309696-fsqhgswrqc-portrait.jpg"
-                  title="`Kanthamathi` (Sadarame) Surabhi Theatre Play"
-                  subtitle="Telugu -> ₹400" />
+                src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-680.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAzMSBKdWw%3D,ots-30,otc-FFFFFF,oy-620,ox-24/et00312831-ekwuvquphc-portrait.jpg"
+                  title="Admission- 31st July Saturday (Sadarame)"
+                  subtitle="English -> ₹199 onwards" />
               </div>
               <div className="w-1/2 md:w-1/3 lg:w-3/12 my-3">
                 <Poster
@@ -23,9 +23,9 @@ const Play =()=>{
               </div>
               <div className="w-1/2 md:w-1/3 lg:w-3/12 my-3">
                 <Poster
-                  src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxNyBKdWw%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00309696-fsqhgswrqc-portrait.jpg"
-                  title="`Kanthamathi` (Sadarame) Surabhi Theatre Play"
-                  subtitle="Telugu -> ₹400"/>
+                  src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-680.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAzMSBKdWw%3D,ots-30,otc-FFFFFF,oy-620,ox-24/et00312831-ekwuvquphc-portrait.jpg"
+                  title="Admission- 31st July Saturday (Sadarame)"
+                  subtitle="English -> ₹199 onwards" />
               </div>
               <div className="w-1/2 md:w-1/3 lg:w-3/12 my-3">
                 <Poster
