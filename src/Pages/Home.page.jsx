@@ -30,11 +30,11 @@ useEffect(() => {
 }, [] );
 
 useEffect(() => {
-  const requestupcomingMovies =async () => {
-  const getupcomingMovies = await axios.get("/movie/upcoming");
-  setUpcomingMovies(getupcomingMovies.data.results);
+  const requestUpcomingMovies =async () => {
+  const getUpcomingMovies = await axios.get("/movie/upcoming");
+  setUpcomingMovies(getUpcomingMovies.data.results);
   };
-  requestupcomingMovies();
+  requestUpcomingMovies();
 }, [] );
 
 
